@@ -1,0 +1,51 @@
+REM GENRE Rock
+REM DATE 1982
+REM DISCID 6B0A2708
+REM COMMENT "ExactAudioCopy v0.95b4"
+CATALOG 0602498218389
+PERFORMER "The Cure"
+TITLE "Pornography (Deluxe Edition) - Disc 1 of 2"
+FILE "The Cure - Pornography (Deluxe Edition) - Disc 1 of 2.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "One Hundred Years"
+    PERFORMER "The Cure"
+    ISRC GBALB0080019
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "A Short Term Effect"
+    PERFORMER "The Cure"
+    ISRC GBALB0080020
+    INDEX 01 06:41:00
+  TRACK 03 AUDIO
+    TITLE "The Hanging Garden"
+    PERFORMER "The Cure"
+    ISRC GBALB0080007
+    INDEX 01 11:03:37
+  TRACK 04 AUDIO
+    TITLE "Siamese Twins"
+    PERFORMER "The Cure"
+    ISRC GBALB0080021
+    INDEX 01 15:37:55
+  TRACK 05 AUDIO
+    TITLE "The Figurehead"
+    PERFORMER "The Cure"
+    ISRC GBALB0080022
+    INDEX 00 21:05:25
+    INDEX 01 21:06:07
+  TRACK 06 AUDIO
+    TITLE "A Strange Day"
+    PERFORMER "The Cure"
+    ISRC GBALB0080023
+    INDEX 01 27:21:20
+  TRACK 07 AUDIO
+    TITLE "Cold"
+    PERFORMER "The Cure"
+    ISRC GBALB0080024
+    INDEX 00 32:25:16
+    INDEX 01 32:25:17
+  TRACK 08 AUDIO
+    TITLE "Pornography"
+    PERFORMER "The Cure"
+    ISRC GBALB0080025
+    INDEX 00 36:50:64
+    INDEX 01 36:51:60

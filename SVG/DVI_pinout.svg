@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1869"
+   height="584"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docname="DVI pinout.svg"
+   sodipodi:docbase=".">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="1179.1545"
+     inkscape:cy="363.52356"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1158"
+     inkscape:window-x="-2"
+     inkscape:window-y="-2" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" />
+        <dc:title>DVI pinout</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(429.21429,-361.93359)">
+    <path
+       sodipodi:nodetypes="csssssscccscccsssccc"
+       id="path3356"
+       d="M 1340.2857,873.29376 C 1354.3776,868.27892 1362.3122,863.39263 1371.3587,854.15833 C 1381.0116,844.30503 1383.7444,838.44744 1393.6242,806.43359 C 1403.8902,773.16832 1406.7196,762.17856 1410.2305,741.93359 C 1416.4117,706.29086 1416.1432,713.93623 1416.5329,562.43359 C 1416.7822,465.52475 1416.5617,421.4653 1415.8047,416.93359 C 1412.7969,398.92653 1398.4153,383.75967 1380.7857,380.00224 C 1376.598,379.10972 1166.3909,378.90203 499.78571,379.13181 L -375.71429,379.43359 L -381.02847,381.6119 C -392.58312,386.34822 -404.01432,398.08472 -407.88443,409.18512 C -409.62503,414.17758 -409.71429,421.50646 -409.71429,559.43359 L -409.71429,704.43359 L -407.42486,720.83716 C -402.93372,753.01573 -399.93153,765.90573 -387.63457,805.80724 C -378.0129,837.02792 -377.14225,839.21015 -371.01223,847.47046 C -360.24491,861.97957 -342.31454,872.74882 -325.24226,874.96059 C -322.20188,875.35448 52.43571,875.621 507.28571,875.55286 L 1334.2857,875.42896 L 1340.2857,873.29376 z "
+       style="fill:#ffffff;fill-opacity:1" />
+    <rect
+       style="opacity:1;color:#000000;fill:#ffc0c0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect10068"
+       width="351.60388"
+       height="457.0553"
+       x="991.16626"
+       y="395.93359" />
+    <rect
+       style="opacity:1;color:#000000;fill:#ffffc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8031"
+       width="151.5"
+       height="153"
+       x="425.4155"
+       y="701.87042" />
+    <rect
+       style="opacity:1;color:#000000;fill:#ffc0ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8041"
+       width="305.5"
+       height="153"
+       x="576.91553"
+       y="701.87042" />
+    <rect
+       style="opacity:1;color:#000000;fill:#c0ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8039"
+       width="154.50003"
+       height="152.00002"
+       x="727.91553"
+       y="549.87042" />
+    <rect
+       style="opacity:1;color:#000000;fill:#ffc0c0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8037"
+       width="154.50003"
+       height="154"
+       x="727.91553"
+       y="395.87042" />
+    <rect
+       style="opacity:1;color:#000000;fill:#c0ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8027"
+       width="303"
+       height="306"
+       x="424.9155"
+       y="395.87042" />
+    <rect
+       style="opacity:1;color:#000000;fill:#c0c0ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8023"
+       width="304.5"
+       height="459"
+       x="120.9155"
+       y="395.87042" />
+    <rect
+       style="opacity:1;color:#000000;fill:#ffffc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8021"
+       width="151.5"
+       height="459"
+       x="-30.084499"
+       y="395.87042" />
+    <rect
+       style="opacity:1;color:#000000;fill:#c0ffc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7050"
+       width="304.5"
+       height="459.5"
+       x="90"
+       y="32.10144"
+       transform="translate(-425.0845,363.76897)" />
+    <path
+       style="fill:#000000"
+       d="M -336.71429,887.89987 C -352.5641,883.70379 -369.74742,872.50801 -380.6798,859.25417 C -388.95529,849.2214 -393.08737,839.48732 -403.10194,806.43359 C -412.56379,775.20413 -415.7132,762.63547 -419.14412,742.4126 C -424.7989,709.08159 -424.54741,716.91688 -424.93689,561.93359 C -425.26137,432.81352 -425.13611,417.70672 -423.68689,411.18001 C -418.69263,388.68784 -400.03563,370.12441 -377.71429,365.43799 C -367.159,363.22188 1373.6974,363.20808 1384.1566,365.42402 C 1405.1749,369.87706 1422.738,386.55611 1429.446,408.43359 C 1431.1955,414.13927 1431.2857,421.39908 1431.2857,556.43359 C 1431.2857,687.26314 1431.1433,699.61357 1429.476,713.43359 C 1427.0297,733.71062 1423.3783,754.94484 1419.8464,769.43359 C 1416.0457,785.02491 1399.3422,838.92238 1396.715,844.07219 C 1385.6336,865.79352 1365.7255,881.73103 1341.8685,887.97976 C 1334.4952,889.91101 1324.7928,889.93255 502.34737,889.84332 C -304.39974,889.7558 -329.92726,889.69668 -336.71429,887.89987 z M 1340.2857,873.29376 C 1354.3776,868.27892 1362.3122,863.39263 1371.3587,854.15833 C 1381.0116,844.30503 1383.7444,838.44744 1393.6242,806.43359 C 1403.8902,773.16832 1406.7196,762.17856 1410.2305,741.93359 C 1416.4117,706.29086 1416.1432,713.93623 1416.5329,562.43359 C 1416.7822,465.52475 1416.5617,421.4653 1415.8047,416.93359 C 1412.7969,398.92653 1398.4153,383.75967 1380.7857,380.00224 C 1376.598,379.10972 1166.3909,378.90203 499.78571,379.13181 L -375.71429,379.43359 L -381.02847,381.6119 C -392.58312,386.34822 -404.01432,398.08472 -407.88443,409.18512 C -409.62503,414.17758 -409.71429,421.50646 -409.71429,559.43359 L -409.71429,704.43359 L -407.42486,720.83716 C -402.93372,753.01573 -399.93153,765.90573 -387.63457,805.80724 C -378.0129,837.02792 -377.14225,839.21015 -371.01223,847.47046 C -360.24491,861.97957 -342.31454,872.74882 -325.24226,874.96059 C -322.20188,875.35448 52.43571,875.621 507.28571,875.55286 L 1334.2857,875.42896 L 1340.2857,873.29376 z "
+       id="path2253"
+       sodipodi:nodetypes="cssssssssssssssccsssssscccscccsssccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="-281.03882"
+       y="463.66144"
+       id="text3227"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3229"
+         x="-281.03882"
+         y="463.66144">Pin 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="-296.19019"
+       y="485.79846"
+       id="text4200"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4202"
+         x="-296.19019"
+         y="485.79846"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">TMDS Data 2-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="-311.63745"
+       y="501.7514"
+       id="text4204"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4206"
+         x="-311.63745"
+         y="501.7514"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Digital red - (link 1)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4221"
+       y="463.66144"
+       x="-129.1752"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="463.66144"
+         x="-129.1752"
+         id="tspan4223"
+         sodipodi:role="line">Pin 2</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4225"
+       y="485.79846"
+       x="-147.78067"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="485.79846"
+         x="-147.78067"
+         id="tspan4227"
+         sodipodi:role="line">TMDS Data 2+</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4229"
+       y="501.7514"
+       x="-163.40285"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="501.7514"
+         x="-163.40285"
+         id="tspan4231"
+         sodipodi:role="line">Digital red + (link 1)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4287"
+       y="463.54816"
+       x="23.241547"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="463.54816"
+         x="23.241547"
+         id="tspan4289"
+         sodipodi:role="line">Pin 3</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4291"
+       y="492.37347"
+       x="-13.633209"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="492.37347"
+         x="-13.633209"
+         id="tspan4293"
+         sodipodi:role="line">TMDS Data 2/4 shield</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="174.83563"
+       y="463.66144"
+       id="text4303"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4305"
+         x="174.83563"
+         y="463.66144">Pin 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="159.86786"
+       y="485.79846"
+       id="text4307"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309"
+         x="159.86786"
+         y="485.79846"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">TMDS Data 4-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="326.91321"
+       y="463.54816"
+       id="text4321"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4323"
+         x="326.91321"
+         y="463.54816">Pin 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="309.5116"
+       y="485.79846"
+       id="text4325"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4327"
+         x="309.5116"
+         y="485.79846"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">TMDS Data 4+</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4337"
+       y="463.54816"
+       x="478.64792"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="463.54816"
+         x="478.64792"
+         id="tspan4339"
+         sodipodi:role="line">Pin 6</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4341"
+       y="485.89514"
+       x="473.09225"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="485.89514"
+         x="473.09225"
+         id="tspan4343"
+         sodipodi:role="line">DDC clock</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4355"
+       y="463.66144"
+       x="630.18579"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="463.66144"
+         x="630.18579"
+         id="tspan4357"
+         sodipodi:role="line">Pin 7</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4359"
+       y="485.89514"
+       x="626.70312"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="485.89514"
+         x="626.70312"
+         id="tspan4361"
+         sodipodi:role="line">DDC data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="781.90875"
+       y="463.54816"
+       id="text4371"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4373"
+         x="781.90875"
+         y="463.54816">Pin 8</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4391"
+       y="615.76245"
+       x="-281.07788"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="615.76245"
+         x="-281.07788"
+         id="tspan4393"
+         sodipodi:role="line">Pin 9</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4395"
+       y="637.15167"
+       x="-296.19019"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="637.15167"
+         x="-296.19019"
+         id="tspan4397"
+         sodipodi:role="line">TMDS Data 1-</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4399"
+       y="651.73627"
+       x="-318.51245"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="651.73627"
+         x="-318.51245"
+         id="tspan4401"
+         sodipodi:role="line">Digital green - (link 1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="-134.90567"
+       y="615.76245"
+       id="text4407"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4409"
+         x="-134.90567"
+         y="615.76245">Pin 10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="-146.569"
+       y="637.15167"
+       id="text4411"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4413"
+         x="-146.569"
+         y="637.15167"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">TMDS Data 1+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="-169.26993"
+       y="651.73627"
+       id="text4415"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4417"
+         x="-169.26993"
+         y="651.73627"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Digital green + (link 1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="17.593109"
+       y="615.87573"
+       id="text4425"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4427"
+         x="17.593109"
+         y="615.87573">Pin 11</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="-13.633209"
+       y="636.81598"
+       id="text4429"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4431"
+         x="-13.633209"
+         y="636.81598"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">TMDS Data 1/3 shield</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4441"
+       y="615.87573"
+       x="169.60126"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="615.87573"
+         x="169.60126"
+         id="tspan4443"
+         sodipodi:role="line">Pin 12</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4445"
+       y="637.15167"
+       x="159.86786"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="637.15167"
+         x="159.86786"
+         id="tspan4447"
+         sodipodi:role="line">TMDS Data 3-</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4449"
+       y="651.73627"
+       x="141.55243"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="651.73627"
+         x="141.55243"
+         id="tspan4451"
+         sodipodi:role="line">Digital blue - (link 2)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4459"
+       y="615.76245"
+       x="321.42883"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="615.76245"
+         x="321.42883"
+         id="tspan4461"
+         sodipodi:role="line">Pin 13</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4463"
+       y="637.15167"
+       x="309.5116"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="637.15167"
+         x="309.5116"
+         id="tspan4465"
+         sodipodi:role="line">TMDS Data 3+</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4467"
+       y="651.73627"
+       x="290.8175"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="651.73627"
+         x="290.8175"
+         id="tspan4469"
+         sodipodi:role="line">Digital blue + (link 2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="473.02292"
+       y="615.87573"
+       id="text4475"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4477"
+         x="473.02292"
+         y="615.87573">Pin 14</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="488.83762"
+       y="637.07916"
+       id="text4479"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4481"
+         x="488.83762"
+         y="637.07916"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">+5V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="451.84689"
+       y="651.73627"
+       id="text4483"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4485"
+         x="451.84689"
+         y="651.73627"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Power for monitor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="624.54517"
+       y="615.76245"
+       id="text4493"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4495"
+         x="624.54517"
+         y="615.76245">Pin 15</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="632.30518"
+       y="637.24835"
+       id="text4497"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4499"
+         x="632.30518"
+         y="637.24835"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Ground</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="606.11572"
+       y="651.73627"
+       id="text4501"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4503"
+         x="606.11572"
+         y="651.73627"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Return for pin 14</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4509"
+       y="615.76245"
+       x="776.27985"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="615.76245"
+         x="776.27985"
+         id="tspan4511"
+         sodipodi:role="line">Pin 16</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4513"
+       y="636.18219"
+       x="761.72833"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="636.18219"
+         x="761.72833"
+         id="tspan4515"
+         sodipodi:role="line">Hot plug detect</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="-286.51538"
+       y="769.77466"
+       id="text4531"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4533"
+         x="-286.51538"
+         y="769.77466">Pin 17</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="-296.19019"
+       y="790.46338"
+       id="text4535"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4537"
+         x="-296.19019"
+         y="790.46338"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">TMDS Data 0-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="-314.50562"
+       y="807.8681"
+       id="text4539"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4541"
+         x="-314.50562"
+         y="807.8681"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Digital blue - (link 1)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4547"
+       y="769.66138"
+       x="-134.79239"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="769.66138"
+         x="-134.79239"
+         id="tspan4549"
+         sodipodi:role="line">Pin 18</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4551"
+       y="790.46338"
+       x="-146.569"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="790.46338"
+         x="-146.569"
+         id="tspan4553"
+         sodipodi:role="line">TMDS Data 0+</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4555"
+       y="807.8681"
+       x="-165.26309"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="807.8681"
+         x="-165.26309"
+         id="tspan4557"
+         sodipodi:role="line">Digital blue + (link 1)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4565"
+       y="769.66138"
+       x="17.554047"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="769.66138"
+         x="17.554047"
+         id="tspan4567"
+         sodipodi:role="line">Pin 19</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4569"
+       y="790.65674"
+       x="-13.633209"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="790.65674"
+         x="-13.633209"
+         id="tspan4571"
+         sodipodi:role="line">TMDS Data 0/5 shield</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="169.28876"
+       y="769.66138"
+       id="text4581"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4583"
+         x="169.28876"
+         y="769.66138">Pin 20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="159.86786"
+       y="790.46338"
+       id="text4585"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4587"
+         x="159.86786"
+         y="790.46338"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">TMDS Data 5-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="144.42059"
+       y="807.8681"
+       id="text4589"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4591"
+         x="144.42059"
+         y="807.8681"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Digital red - (link 2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="321.3429"
+       y="769.77466"
+       id="text4599"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4601"
+         x="321.3429"
+         y="769.77466">Pin 21</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="309.5116"
+       y="790.46338"
+       id="text4603"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4605"
+         x="309.5116"
+         y="790.46338"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">TMDS Data 5+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="293.68567"
+       y="807.8681"
+       id="text4607"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4609"
+         x="293.68567"
+         y="807.8681"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Digital red + (link 2)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4615"
+       y="769.77466"
+       x="473.35104"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="769.77466"
+         x="473.35104"
+         id="tspan4617"
+         sodipodi:role="line">Pin 22</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4633"
+       y="769.66138"
+       x="624.62329"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="769.66138"
+         x="624.62329"
+         id="tspan4635"
+         sodipodi:role="line">Pin 23</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4637"
+       y="790.65674"
+       x="616.95996"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="790.65674"
+         x="616.95996"
+         id="tspan4639"
+         sodipodi:role="line">TMDS clock+</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4641"
+       y="807.8681"
+       x="612.90747"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="807.8681"
+         x="612.90747"
+         id="tspan4643"
+         sodipodi:role="line">Digital clock +</tspan></text>
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2255"
+       width="134.70821"
+       height="134.70827"
+       x="-325.54916"
+       y="406.65381" />
+    <rect
+       y="406.6051"
+       x="-173.68555"
+       height="134.70827"
+       width="134.70821"
+       id="rect4219"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       y="406.65381"
+       x="-21.354744"
+       height="134.70827"
+       width="134.70821"
+       id="rect4283"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4299"
+       width="134.70821"
+       height="134.70827"
+       x="130.50888"
+       y="406.6051" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4317"
+       width="134.70821"
+       height="134.70827"
+       x="282.39505"
+       y="406.65381" />
+    <rect
+       y="406.6051"
+       x="434.25867"
+       height="134.70827"
+       width="134.70821"
+       id="rect4333"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       y="406.65381"
+       x="585.58948"
+       height="134.70827"
+       width="134.70821"
+       id="rect4351"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4367"
+       width="134.70821"
+       height="134.70827"
+       x="737.45306"
+       y="406.6051" />
+    <rect
+       y="558.8681"
+       x="-325.54916"
+       height="134.70827"
+       width="134.70821"
+       id="rect4387"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4403"
+       width="134.70821"
+       height="134.70827"
+       x="-173.68555"
+       y="558.8194" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4421"
+       width="134.70821"
+       height="134.70827"
+       x="-21.354744"
+       y="558.8681" />
+    <rect
+       y="558.8194"
+       x="130.50888"
+       height="134.70827"
+       width="134.70821"
+       id="rect4437"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       y="558.8681"
+       x="282.39505"
+       height="134.70827"
+       width="134.70821"
+       id="rect4455"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4471"
+       width="134.70821"
+       height="134.70827"
+       x="434.25867"
+       y="558.8194" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4489"
+       width="134.70821"
+       height="134.70827"
+       x="585.58948"
+       y="558.8681" />
+    <rect
+       y="558.8194"
+       x="737.45306"
+       height="134.70827"
+       width="134.70821"
+       id="rect4505"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4527"
+       width="134.70821"
+       height="134.70827"
+       x="-325.54916"
+       y="710.66589" />
+    <rect
+       y="710.61719"
+       x="-173.68555"
+       height="134.70827"
+       width="134.70821"
+       id="rect4543"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       y="710.8681"
+       x="-21.354744"
+       height="134.70827"
+       width="134.70821"
+       id="rect4561"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4577"
+       width="134.70821"
+       height="134.70827"
+       x="130.50888"
+       y="710.8194" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4595"
+       width="134.70821"
+       height="134.70827"
+       x="282.39505"
+       y="710.8681" />
+    <rect
+       y="710.8194"
+       x="434.25867"
+       height="134.70827"
+       width="134.70821"
+       id="rect4611"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       y="710.8681"
+       x="585.58948"
+       height="134.70827"
+       width="134.70821"
+       id="rect4629"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4645"
+       width="134.70821"
+       height="134.70827"
+       x="737.45306"
+       y="710.8194" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="749.51447"
+       y="484.82898"
+       id="text4375"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4377"
+         x="749.51447"
+         y="484.82898"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Analog vertical sync</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4619"
+       y="790.65674"
+       x="451.59445"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="790.65674"
+         x="451.59445"
+         id="tspan4621"
+         sodipodi:role="line">TMDS clock shield</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="286.81067"
+       y="501.7514"
+       id="text4329"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4331"
+         x="286.81067"
+         y="501.7514"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Digital green + (link 2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="137.54559"
+       y="501.7514"
+       id="text4311"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4313"
+         x="137.54559"
+         y="501.7514"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Digital green - (link 2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="776.21735"
+       y="769.77466"
+       id="text4649"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4651"
+         x="776.21735"
+         y="769.77466">Pin 24</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="771.06598"
+       y="790.65674"
+       id="text4653"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4655"
+         x="771.06598"
+         y="790.65674"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">TMDS clock-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="767.08063"
+       y="807.8681"
+       id="text4657"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4659"
+         x="767.08063"
+         y="807.8681"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Digital clock -</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6984"
+       y="662.80078"
+       x="456.03098"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="662.80078"
+         x="456.03098"
+         id="tspan6986"
+         sodipodi:role="line">when in standby</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6988"
+       y="662.80078"
+       x="607.84253"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="662.80078"
+         x="607.84253"
+         id="tspan6990"
+         sodipodi:role="line">and analog sync</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="611.90039"
+       y="820.16199"
+       id="text6992"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6994"
+         x="611.90039"
+         y="820.16199"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">(Links 1 and 2)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6996"
+       y="820.16199"
+       x="763.76398"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="820.16199"
+         x="763.76398"
+         id="tspan6998"
+         sodipodi:role="line">(Links 1 and 2)</tspan></text>
+    <rect
+       y="476.60553"
+       x="1023.4651"
+       height="92.90921"
+       width="93.793777"
+       id="rect9012"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9985"
+       width="93.793777"
+       height="92.90921"
+       x="1219.3367"
+       y="476.60553" />
+    <rect
+       y="672.60553"
+       x="1023.4651"
+       height="92.90921"
+       width="93.793777"
+       id="rect9991"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9993"
+       width="93.793777"
+       height="92.90921"
+       x="1219.3367"
+       y="672.60553" />
+    <path
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.00000048;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 1572.1562,89.6875 L 1572.1562,236.09375 L 1425.7812,236.09375 L 1425.7812,278.1875 L 1572.1562,278.1875 L 1572.1562,424.59375 L 1614.2812,424.59375 L 1614.2812,278.1875 L 1760.6562,278.1875 L 1760.6562,236.09375 L 1614.2812,236.09375 L 1614.2812,89.6875 L 1572.1562,89.6875 z "
+       id="rect9995"
+       transform="translate(-425.0845,363.76897)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text10006"
+       y="522.05792"
+       x="1059.0729"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="522.05792"
+         x="1059.0729"
+         id="tspan10008"
+         sodipodi:role="line">C1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="1255.089"
+       y="522.05792"
+       id="text10010"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10012"
+         x="1255.089"
+         y="522.05792">C2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="1059.1588"
+       y="717.53003"
+       id="text10014"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10016"
+         x="1059.1588"
+         y="717.53003">C3</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10018"
+       y="717.53003"
+       x="1254.7609"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="717.53003"
+         x="1254.7609"
+         id="tspan10020"
+         sodipodi:role="line">C4</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10022"
+       y="539.82898"
+       x="1040.735"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="539.82898"
+         x="1040.735"
+         id="tspan10024"
+         sodipodi:role="line">Analog red</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="1230.1344"
+       y="539.82898"
+       id="text10026"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10028"
+         x="1230.1344"
+         y="539.82898"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Analog green</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="1038.2535"
+       y="737.05835"
+       id="text10030"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10032"
+         x="1038.2535"
+         y="737.05835"
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Analog blue</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10034"
+       y="737.05835"
+       x="1266.1207"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="737.05835"
+         x="1267.8717"
+         id="tspan10036"
+         sodipodi:role="line">Analog </tspan><tspan
+         style="font-size:11px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="750.80835"
+         x="1266.1207"
+         sodipodi:role="line"
+         id="tspan10038">horizontal sync</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="1156.8529"
+       y="809.73114"
+       id="text10048"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10050"
+         x="1156.8529"
+         y="809.73114">C5</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10052"
+       y="825.97583"
+       x="1128.0551"
+       style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#000000;fill-opacity:1;font-family:DejaVu Sans"
+         y="825.97583"
+         x="1128.0551"
+         id="tspan10054"
+         sodipodi:role="line">Analog ground</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Roman No9 L"
+       x="1167.8656"
+       y="841.97583"
+       id="text10056"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10058"
+         x="1167.8656"
+         y="841.97583"
+         style="font-size:11px;font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:DejaVu Sans">Return for R, G and B signals</tspan></text>
+  </g>
+  <g
+     id="g11116"
+     transform="translate(-9.8702056,1.8353533)">
+    <rect
+       y="534.70715"
+       x="103.26828"
+       height="34.42276"
+       width="34.422756"
+       id="rect11047"
+       style="opacity:1;color:#000000;fill:#c1ffc1;fill-opacity:1;fill-rule:nonzero;stroke:#00f800;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text11059"
+       y="558.06543"
+       x="147.52611"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="558.06543"
+         x="147.52611"
+         id="tspan11061"
+         sodipodi:role="line">Data (Link 1)</tspan></text>
+  </g>
+  <g
+     id="g11077"
+     transform="translate(299.09746,1.8353533)">
+    <rect
+       style="opacity:1;color:#000000;fill:#ffffc0;fill-opacity:1;fill-rule:nonzero;stroke:#f8f800;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11071"
+       width="34.422756"
+       height="34.42276"
+       x="103.26828"
+       y="534.70715" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="147.52611"
+       y="558.06543"
+       id="text11073"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11075"
+         x="147.52611"
+         y="558.06543">Shielding</tspan></text>
+  </g>
+  <g
+     transform="translate(571.44987,1.8353533)"
+     id="g11082">
+    <rect
+       y="534.70715"
+       x="103.26828"
+       height="34.42276"
+       width="34.422756"
+       id="rect11084"
+       style="opacity:1;color:#000000;fill:#c0c0ff;fill-opacity:1;fill-rule:nonzero;stroke:#0000f8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text11086"
+       y="558.06543"
+       x="147.52611"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="558.06543"
+         x="147.52611"
+         id="tspan11088"
+         sodipodi:role="line">Data (Link 2)</tspan></text>
+  </g>
+  <g
+     id="g11090"
+     transform="translate(880.41752,1.8353533)">
+    <rect
+       style="opacity:1;color:#000000;fill:#c0ffff;fill-opacity:1;fill-rule:nonzero;stroke:#00f8f8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11092"
+       width="34.422756"
+       height="34.42276"
+       x="103.26828"
+       y="534.70715" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="147.52611"
+       y="558.06543"
+       id="text11094"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11096"
+         x="147.52611"
+         y="558.06543">Plug and Play</tspan></text>
+  </g>
+  <g
+     transform="translate(1196.9965,1.8353533)"
+     id="g11098">
+    <rect
+       y="534.70715"
+       x="103.26828"
+       height="34.42276"
+       width="34.422756"
+       id="rect11100"
+       style="opacity:1;color:#000000;fill:#ffc0ff;fill-opacity:1;fill-rule:nonzero;stroke:#f800f8;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text11102"
+       y="558.06543"
+       x="147.52611"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       xml:space="preserve"><tspan
+         y="558.06543"
+         x="147.52611"
+         id="tspan11104"
+         sodipodi:role="line">Digital clock</tspan></text>
+  </g>
+  <g
+     id="g11106"
+     transform="translate(1501.3675,1.8353533)">
+    <rect
+       style="opacity:1;color:#000000;fill:#ffc0c0;fill-opacity:1;fill-rule:nonzero;stroke:#f80000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11108"
+       width="34.422756"
+       height="34.42276"
+       x="103.26828"
+       y="534.70715" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans"
+       x="147.52611"
+       y="558.06543"
+       id="text11110"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11112"
+         x="147.52611"
+         y="558.06543">Analog Data</tspan></text>
+  </g>
+</svg>

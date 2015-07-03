@@ -1,0 +1,9 @@
+
+sysstream 1
+horizontal_size 320
+vertical_size 320
+frame_rate 30.000000
+bit_rate 2875
+chroma_format 1
+GOPLength 18
+NonB_Interval 3
